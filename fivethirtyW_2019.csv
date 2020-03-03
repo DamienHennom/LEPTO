@@ -1,0 +1,97 @@
+Team1,Team2,Proba,Stage
+Baylor,Ablilene Chr.,0.99,1
+California,UNC,0.64,1
+Florida State,Bucknell,0.84,1
+S. Carolina,Belmont,0.9,1
+Kentucky,Princeton,0.68,1
+NC State,Maine,0.94,1
+Missouri,Drake,0.66,1
+Iowa,Mercer,0.97,1
+Miss. State,Southern,0.99,1
+Dakota,Clemson,0.7,1
+Arizona St.,UCF,0.69,1
+Miami,FGCU,0.82,1
+S. Dakota St.,Quinnipiac,0.65,1
+Syracuse,Fordham,0.91,1
+Texas,Indiana,0.76,1
+Oregon,Portland St.,0.99,1
+Notre Dame,Beth.-Cook.,0.99,1
+Cen.Mich.,Michigan St.,0.6,1
+Marquette,Rice,0.86,1
+Texas A&M,Wright State,0.92,1
+DePaul,Missouri St.,0.83,1
+Iowa State,NM State,0.98,1
+BYU,Auburn,0.45,1
+Stanford,UC-Davis,0.96,1
+Louisville,Rob. Morris,0.99,1
+Michigan,Kansas State,0.67,1
+Gonzaga,Ark.-LR,0.87,1
+Oregon St.,Boise State,0.96,1
+UCLA,Tennessee,0.56,1
+Maryland,Radford,0.98,1
+Rutgers,Buffalo,0.49,1
+UConn,Towson,0.99,1
+Florida State,S. Carolina,0.24,2
+Florida State,Belmont,0.99,2
+Bucknell,S. Carolina,0.01,2
+Bucknell,Belmont,0.2,2
+Baylor,California,0.99,2
+Baylor,UNC,0.99,2
+Abilene Chr.,California,0.08,2
+Abilene Chr.,UNC,0.65,2
+Kentucky,NC State,0.14,2
+Kentucky,Maine,0.96,2
+Princeton,NC State,0.06,2
+Princeton,Maine,0.08,2
+Missouri,Iowa,0.09,2
+Missouri,Mercer,0.94,2
+Drake,Iowa,0.06,2
+Drake,Mercer,0.06,2
+Miss. State,S. Dakota,0.99,2
+Miss. State,Clemson,0.99,2
+Southern,S. Dakota,0.06,2
+Southern,Clemson,0.5,2
+Arizona St.,Miami,0.23,2
+Arizona St.,FGCU,0.99,2
+UCF,Miami,0.06,2
+UCF,FGCU,0.23,2
+S. Dakota St.,Syracuse,0.2,2
+S. Dakota St.,Fordham,0.94,2
+Quinnipiac,Syracuse,0.09,2
+Quinnipiac,Fordham,0.13,2
+Texas,Oregon,0.01,2
+Texas,Portland St.,0.99,2
+Indiana,Oregon,0.01,2
+Indiana,Portland St.,0.01,2
+Notre Dame,Cen. Mich.,0.99,2
+Notre Dame,Michigan St.,0.99,2
+Beth.-Cook.,Cen. Mich.,0.1,2
+Beth.-Cook.,Michigan St.,0.75,2
+Marquette,Texas A&M,0.42,2
+Marquette,Wright State,0.99,2
+Rice,Texas A&M,0.02,2
+Rice,Wright State,0.09,2
+DePaul,Iowa State,0.3,2
+DePaul,NM State,0.99,2
+Missouri St.,Iowa State,0.03,2
+Missouri St.,NM State,0.02,2
+BYU,Stanford,0.01,2
+BYU,UC-Davis,0.86,2
+Auburn,Stanford,0.02,2
+Auburn,UC-Davis,0.06,2
+Louisville,Michigan,0.99,2
+Louisville,Kansas State,0.99,2
+Rob. Morris,Michigan,0.01,2
+Rob. Morris,Kansas State,0.5,2
+Gonzaga,Oregon St.,0.1,2
+Gonzaga,Boise State,0.99,2
+Ark.-LR,Oregon St.,0.01,2
+Ark.-LR,Boise State,0.04,2
+UCLA,Maryland,0.07,2
+UCLA,Radford,0.87,2
+Tennessee,Maryland,0.1,2
+Tennessee,Radford,0.1,2
+Rutgers,UConn,0.01,2
+Rutgers,Towson,0.82,2
+Buffalo,UConn,0.01,2
+Buffalo,Towson,0.01,2
